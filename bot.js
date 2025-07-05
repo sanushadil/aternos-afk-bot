@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'your-server.aternos.me', // change this to your actual Aternos IP
     port: 25565,
-    username: 'AFK_Bot123', // any fake/cracked username
+    username: 'AFK_Bot123', // any fake/cracked usernam
     version: false, // auto-detect
   });
 
